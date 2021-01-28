@@ -11,3 +11,7 @@
 ## 伏波山上俯瞰
 * 前段时间在伏波山拍的
 ![降伏波涛](./panorama/fuboshan.jpg)
+
+## 漓江上的解放桥
+* 在漓江边上拍的解放桥
+  ![解放桥](./panorama/jiefangqiao.jpg)
